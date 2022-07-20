@@ -12,6 +12,15 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
+<!--    <ImageView-->
+<!--        android:id="@+id/imgDog"-->
+<!--        android:layout_width="100dp"-->
+<!--        android:layout_height="100dp"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        android:src="@drawable/vovav_blue"/>-->
+
+
     <ImageView
         android:id="@+id/star"
         android:layout_width="40dp"

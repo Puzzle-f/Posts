@@ -8,5 +8,4 @@ interface PostsApiService {
 
     @GET("v1/images/search")
     suspend fun getPosts(@Query("page") page: Int, @Query("limit") size: Int): List<PostModel>
-
 }
